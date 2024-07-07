@@ -1,23 +1,23 @@
 <div align="center">
-    <a href="https://sushi-2-fv.netlify.app" target="_blank">
+    <a href="https://travel-2-fv.netlify.app" target="_blank">
       <img src="design/preview.webp" alt="Project Banner">
     </a>
   <h3 align="center">Travel Agency</h3>
 </div>
 
-##  <br /> 📋 <a name="table">Table of Contents</a>
+## <br /> 📋 <a name="table">Table of Contents</a>
 
 - ✨ [Introduction](#introduction)
 - ⚙️ [Tech Stack](#tech-stack)
 - 🚀 [Quick Start](#quick-start)
 
-##  <br /> <a name="introduction">✨ Introduction</a>
+## <br /> <a name="introduction">✨ Introduction</a>
 
 **[EN]** Landing page design for a travel agency featuring a modern and minimalist aesthetic, crafted using HTML, CSS, and JavaScript. Enhanced with smooth animations powered by ScrollReveal.js library.
 
 **[FR]** Page d'accueil pour une agence du voyage, mettant en avant une esthétique moderne et minimaliste, réalisée avec HTML, CSS et JavaScript. Agrémentée d'animations fluides grâce à la bibliothèque ScrollReveal.js.
 
-##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
+## <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
 - HTML
 - CSS
